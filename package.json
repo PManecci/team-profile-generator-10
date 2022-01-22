@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator to display Team Member Info",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmanecci/team-profile-generator.git"
+  },
+  "author": "Patty Manecci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmanecci/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/pmanecci/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
